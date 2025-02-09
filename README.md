@@ -60,5 +60,11 @@ print(cv2.__version__)
 ```
 If OpenCV is installed correctly, it should print the version number.
 
-## 8. Conclusion
+## 8. Reposiroty Code Links
+
+| Index | Program Name                          | Description | 
+|-------|---------------------------------------|-----------------|------------|
+| 1     | [Display image](https://github.com/ananthu-m-01/opencv-basics/blob/main/image-processing/display-image.ipynb) |This script reads an image using OpenCV, displays it in its original BGR format, converts it to RGB, and then displays the converted image using Matplotlib and comapring the pixel values in BGR and RGB images|
+
+## 9. Conclusion
 With these prerequisites and installations, you are now ready to start working with OpenCV. 🚀
