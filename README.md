@@ -65,6 +65,8 @@ If OpenCV is installed correctly, it should print the version number.
 | Index | Program Name | Description |
 |-------|--------------|-------------|
 | 1     | [Display image](https://github.com/ananthu-m-01/opencv-basics/blob/main/image-processing/display-image.ipynb) | This script reads an image using OpenCV, displays it in its original BGR format, converts it to RGB, and then displays the converted image using Matplotlib and comparing the pixel values in BGR and RGB. |
+| 2     | [Splitting into 3 channel ](https://github.com/ananthu-m-01/opencv-basics/blob/main/image-processing/splitting-image.ipynb) | This script reads an image and splitting into 3 different channel using cv2. split() anad displaying each images such as red, blue and gree channel images |
+| 3     | [Merged images ](https://github.com/ananthu-m-01/opencv-basics/blob/main/image-processing/merge-images.ipynb) | This script focus of merge the image according with various channel and produce the alternative combinations |
 
 ## 9. Conclusion
 With these prerequisites and installations, you are now ready to start working with OpenCV. 🚀
