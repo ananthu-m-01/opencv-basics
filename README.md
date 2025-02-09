@@ -1,4 +1,5 @@
-#Getting started with OpenCV
+# Getting started with OpenCV
+In this beginner tutorial we learn how to work with the basics of opencv using jupyter notebook . Lets get started
 
 | Index | Program Name                          |
 |-------|---------------------------------------|
